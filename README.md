@@ -7,7 +7,7 @@
 **The University of Chicago**  
 *MSc Computer Science* — Chicago, IL  
 **Expected:** March 2025  
-**Relevant Coursework:** Algorithms, Cloud Computing, Applied Data Analytics, Unix Systems, Python Programming
+**Relevant Coursework:** Algorithms, Cloud Computing, Applied Data Analytics, Unix Systems, Python Programming, DataBase Systems
 
 **Brown University**  
 *BSc Electrical Engineering* — Providence, RI  
@@ -18,7 +18,7 @@
 ## Skills
 
 **Languages & Tools:**  
-Python | Java | JavaScript | C/C++ | UNIX | Spark | SQL | NoSQL | AWS/GCP/AZURE | TensorFlow | Pytorch
+Python | Java | JavaScript | C/C++ | UNIX | Spark | SQL | NoSQL | AWS/GCP/AZURE | TensorFlow | Pytorch | YOLO | OpenCV | Docker | Google Drive API | Excel Automation | Debian Alpine Linux
 
 ## Professional Experience
 **Software Engineering Intern**  
