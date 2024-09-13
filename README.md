@@ -17,8 +17,11 @@
 
 ## Skills
 
-**Languages & Tools:**  
-Python | Java | JavaScript | C/C++ | UNIX | Spark | SQL | NoSQL | AWS/GCP/AZURE | TensorFlow | Pytorch | YOLO | OpenCV | Docker | Google Drive API | Excel Automation | Debian Alpine Linux
+**Languages:**
+Python | Java | JavaScript | C/C++ | SQL | NoSQL | UNIX
+
+**Frameworks & Tools:**
+TensorFlow | Pytorch | YOLO | OpenCV | Docker | Spark | AWS/GCP/AZURE | Google Drive SDK | Excel Automation | Debian Alpine Linux
 
 ## Professional Experience
 **Software Engineering Intern**  
