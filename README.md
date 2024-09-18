@@ -2,16 +2,22 @@
 
 📞 +1-708-5175-666 | 📧 [brunofelalaga@uchicago.edu](mailto:brunofelalaga@uchicago.edu) | [LinkedIn](https://www.linkedin.com/in/bruno-felalaga/) | [GitHub](https://github.com/BrunoFelalaga)
 
+
 # About Me
 
-<img src="bonbino.png" alt="Profile Picture" width="150" align="left" style="margin-right: 15px;"/>
+<table>
+  <tr>
+    <td><img src="bonbino.png" alt="Profile Picture" width="150" style="margin-right: 15px;"/></td>
+    <td>
+      I am a motivated Software Engineer with a background in Electrical and Computer Engineering. I am passionate about leveraging AI/ML to build Software Solutions for problems that affect communities at scale.
 
-I am a motivated Software Engineer with a background in Electrical and Computer Engineering. I am passionate about leveraging AI/ML to build Software Solutions for problems that affect communities at scale.
+      Currently, I am studying for a Masters Degree in Computer Science at the University of Chicago and looking to graduate in March of 2025. 
 
-Currently, I am studying for a Masters Degree in Computer Science at the University of Chicago and looking to graduate in March of 2025. 
+      I am also actively looking for related full-time opportunities. Please reach out with any ideas for collaborations or open relevant roles. I am also happy to discuss my journey, background, and qualifications!
+    </td>
+  </tr>
+</table>
 
-I am also actively looking for related full-time opportunities. Please reach out with any ideas for collaborations or open relevant roles. 
-I am also happy to discuss my journey, background and qualifications!
 
 ## Education
 
@@ -26,6 +32,7 @@ I am also happy to discuss my journey, background and qualifications!
 **Relevant Coursework:** Data Structures & Algorithms, OOP, Digital Electronic Systems Design, Linear System Analysis  
 **Awards:** Wade Scholar, Brown UTRA Award, Brown LINK Award, Shoman Scholar, Davis Scholar, Davis Projects for Peace
 
+
 ## Skills
 
 **Languages:**
@@ -33,6 +40,7 @@ Python | Java | JavaScript | C/C++ | SQL | NoSQL | UNIX
 
 **Frameworks & Tools:**
 TensorFlow | Pytorch | YOLO | OpenCV | Docker | Spark | AWS/GCP/AZURE | Google Drive SDK | Debian Alpine Linux
+
 
 ## Professional Experience
 **Software Engineering Intern**  
@@ -78,6 +86,7 @@ TensorFlow | Pytorch | YOLO | OpenCV | Docker | Spark | AWS/GCP/AZURE | Google D
 - Implemented REST API endpoints for data transfer among frontend, backend, and database.
 - Made recommendations that improved therapy adherence by ~32% based on statistical regression analysis.
 
+
 ## Projects
 
 **Geospatial Data Processing**  
@@ -96,6 +105,7 @@ TensorFlow | Pytorch | YOLO | OpenCV | Docker | Spark | AWS/GCP/AZURE | Google D
 - Integrated CI/CD pipelines for automated testing across various platforms.
 - Tested the platform with ~20 users and continuously incorporated user feedback.
 
+
 ## Leadership and Engagement
 
 **Founder**  
@@ -103,6 +113,7 @@ TensorFlow | Pytorch | YOLO | OpenCV | Docker | Spark | AWS/GCP/AZURE | Google D
 **Feb 2018 - Present**  
 - Won a $10,000 award to establish a solar-powered library and IT center for ~6K off-grid residents.
 - Improved school retention rates by 55% by introducing educational tools like Kahoot, Nearpod, and Scratch.
+
 
 **Activities:** UChicago TechTeam, Derivatives of Data Science, Brown Space Engineering, Brown CS Mosaic+, NSBE  
 **Leadership:** Algorithms TA - UChicago, UChicago TeachTeam Mentor, Chemical Equilibriums TA - Brown U.
