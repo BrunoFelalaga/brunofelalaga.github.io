@@ -1,8 +1,12 @@
-<img src="bonbino.png" alt="Profile Picture" width="100" align="left" style="margin-right: 15px;"/>
-
 # Bruno Felalaga
 
 📞 +1-708-5175-666 | 📧 [brunofelalaga@uchicago.edu](mailto:brunofelalaga@uchicago.edu) | [LinkedIn](https://www.linkedin.com/in/bruno-felalaga/) | [GitHub](https://github.com/BrunoFelalaga)
+
+# About Me
+
+![Profile Picture](bonbino.png)
+
+I am Bruno Felalaga, a software engineer passionate about...
 
 ## Education
 
