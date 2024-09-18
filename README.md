@@ -5,7 +5,7 @@
 
 # About Me
 
-<img src="bonbino.png" alt="Profile Picture" width="150" align="left" style="margin-right: 15px;"/>
+<img src="bonbino.png" alt="Profile Picture" width="150" height="220" align="left" style="margin-right: 15px;"/>
 
 I am a motivated Software Engineer with a background in Electrical and Computer Engineering. I am passionate about leveraging AI/ML to build Software Solutions for problems that affect communities at scale.
 
