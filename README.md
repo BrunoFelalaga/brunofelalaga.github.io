@@ -1,6 +1,6 @@
 # Bruno Felalaga
 
-📧 [brunofelalaga@uchicago.edu](mailto:brunofelalaga@uchicago.edu) | [LinkedIn](https://www.linkedin.com/in/bruno-felalaga/) | [GitHub](https://github.com/BrunoFelalaga) | 📞 +1-708-5175-666 
+📧 [brunofelalaga@uchicago.edu](mailto:brunofelalaga@uchicago.edu)  |  [LinkedIn](https://www.linkedin.com/in/bruno-felalaga/)  |  [GitHub](https://github.com/BrunoFelalaga)  |  📞 +1-708-5175-666 
 
 
 # About Me
@@ -39,10 +39,10 @@ I am actively looking for related full-time opportunities. Please reach out with
 ## Skills
 
 **Languages:**
-Python | Java | JavaScript | C/C++ | SQL | NoSQL | UNIX
+Python  |  Java  |  JavaScript  |  C/C++  |  SQL  |  NoSQL  |  UNIX
 
 **Frameworks & Tools:**
-TensorFlow | Pytorch | YOLO | OpenCV | Docker | Spark | AWS/GCP/AZURE | Google Drive SDK | Debian Alpine Linux
+TensorFlow  |  Pytorch  |  YOLO  |  OpenCV  |  Docker  |  Spark  |  AWS/GCP/AZURE  |  Google Drive SDK  |  Debian Alpine Linux
 
 
 ## Professional Experience
