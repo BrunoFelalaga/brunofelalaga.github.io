@@ -4,7 +4,7 @@
 
 ## Sections
 
-- [About Me](about_me.md)
+- [About Me](about-me.md)
 - [Projects](projects.md)
 - [Experience](experience.md)
 - [Skills](skills.md)
