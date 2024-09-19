@@ -1,6 +1,6 @@
 # Bruno Felalaga
 
-📞 +1-708-5175-666 | 📧 [brunofelalaga@uchicago.edu](mailto:brunofelalaga@uchicago.edu) | [LinkedIn](https://www.linkedin.com/in/bruno-felalaga/) | [GitHub](https://github.com/BrunoFelalaga)
+📧 [brunofelalaga@uchicago.edu](mailto:brunofelalaga@uchicago.edu) | [LinkedIn](https://www.linkedin.com/in/bruno-felalaga/) | [GitHub](https://github.com/BrunoFelalaga) | 📞 +1-708-5175-666 
 
 
 # About Me
