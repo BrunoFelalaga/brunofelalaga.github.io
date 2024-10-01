@@ -130,6 +130,7 @@ TensorFlow  |  Pytorch  |  YOLO  |  OpenCV  |  Docker  |  Spark  |  AWS/GCP/AZUR
 
 **Founder**  
 **Davis Foundation Community & Lib. & IT Center — UER, Ghana**
+<br>
 *Feb 2018 - Present* 
 - Won a $10,000 award to establish a solar-powered library and IT center for ~6K off-grid residents.
 - Improved school retention rates by 55% by introducing educational tools like Kahoot, Nearpod, and Scratch.
