@@ -9,23 +9,19 @@
 - Improved school retention rates by 55% by introducing engaging educational tools like Kahoot, Nearpod, and Scratch.  
 - Raised additional funds for the library’s sustainability by applying for awards, pitching to donors, and raising awareness through Ghanaian radio and TV stations.  
 
-#### Co-Ordinator - Pastoral Council of the Brown-RISD Catholic Community  
-<span style="float: right;">*Jan 2017 - Dec 2017* </span>  
+#### Co-Ordinator - Pastoral Council of the Brown-RISD Catholic Community  <span style="float: right;">*Jan 2017 - Dec 2017* </span>  
 <br>
 - Led inclusion and exposure initiatives for freshmen, ensuring new students were integrated into the community.
 
-#### Mentor - Brown University International Mentorship Program  
-<span style="float: right;">*Aug 2017 - May 2018* </span>  
+#### Mentor - Brown University International Mentorship Program  <span style="float: right;">*Aug 2017 - May 2018* </span>  
 <br>
 - Provided year-long mentorship for twelve international first-year students, helping them adjust to academic and social life at Brown.
 
-#### Mentor - Excellence at Brown Mentorship Program  
-<span style="float: right;">*Aug 2018* </span>  
+#### Mentor - Excellence at Brown Mentorship Program  <span style="float: right;">*Aug 2018* </span>  
 <br>
 - Mentored incoming freshmen in an intensive academic writing program, guiding them in developing strong writing and critical thinking skills.
 
-#### Mentor - Brown Elementary and Afterschool Mentorship (BEAM)  
-<span style="float: right;">*Dec 2017 - May 2018* </span>  
+#### Mentor - Brown Elementary and Afterschool Mentorship (BEAM)  <span style="float: right;">*Dec 2017 - May 2018* </span>  
 <br>
 - Taught biology to kindergarten and grade five students at William D’Abate Elementary School, supporting STEM education for young learners.
 
