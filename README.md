@@ -93,7 +93,7 @@ TensorFlow  |  Pytorch  |  YOLO  |  OpenCV  |  Docker  |  Spark  |  AWS/GCP/AZUR
 ## Projects
 
 **PDF Chatbot**
-**Jan 2024**
+*Jan 2024*
 - Developed a PDF chatbot allowing users to upload and query multiple PDFs or DOCX files, providing real-time responses.
 - Integrated **PyPDF** for seamless document processing and **RAG (Retrieval-Augmented Generation)** to enhance response accuracy.
 - Implemented text chunking and **OpenAI embeddings** for efficient retrieval and semantic search of document content.
@@ -101,7 +101,7 @@ TensorFlow  |  Pytorch  |  YOLO  |  OpenCV  |  Docker  |  Spark  |  AWS/GCP/AZUR
 - Built a user-friendly interface with **Streamlit**, providing real-time processing feedback and context-aware answers.
 
 **MShell - (Unix-like Shell)**
-**March 2024**
+*March 2024*
 - Developed a **Unix-like shell** with user login, job control, and process management.
 - Implemented user authentication using a **passwd file**, and personalized user history for storing recent commands.
 - Built job control mechanisms with support for background/foreground processes and **SIGINT/SIGTSTP** signal handling.
@@ -110,16 +110,16 @@ TensorFlow  |  Pytorch  |  YOLO  |  OpenCV  |  Docker  |  Spark  |  AWS/GCP/AZUR
 
 
 **Geospatial Data Processing**  
-*UChicago TechTeam & Genesys Work*  
-**Sept 2023 - Present**  
+**UChicago TechTeam & Genesys Work** 
+*Sept 2023 - Present*
 - Mentoring undergraduates on software and data strategies for non-profit firms in Chicago.
 - Creating a platform for pairing high school students with internships in Chicago.
 - Integrating Google Maps API to streamline location pairing using GPS data and zip codes.
 - Developing algorithms to optimize transit times and utilizing Power BI for data visualization.
 
 **Virtual Book Club - Group Project**  
-*UChicago*  
-**June 2023 - Present**  
+**UChicago**  
+*June 2023 - Present*
 - Leading the development of an end-to-end social platform with FastAPI for book reading and discussion.
 - Executed CRUD operations, integrated authentication, and managed relational database structures.
 - Integrated CI/CD pipelines for automated testing across various platforms.
@@ -129,8 +129,8 @@ TensorFlow  |  Pytorch  |  YOLO  |  OpenCV  |  Docker  |  Spark  |  AWS/GCP/AZUR
 ## Leadership and Engagement
 
 **Founder**  
-*Davis Foundation Community & Lib. & IT Center* — UER, Ghana  
-**Feb 2018 - Present**  
+**Davis Foundation Community & Lib. & IT Center — UER, Ghana**
+*Feb 2018 - Present* 
 - Won a $10,000 award to establish a solar-powered library and IT center for ~6K off-grid residents.
 - Improved school retention rates by 55% by introducing educational tools like Kahoot, Nearpod, and Scratch.
 
