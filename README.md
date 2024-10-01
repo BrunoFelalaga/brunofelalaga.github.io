@@ -109,7 +109,6 @@ TensorFlow  |  Pytorch  |  YOLO  |  OpenCV  |  Docker  |  Spark  |  AWS/GCP/AZUR
 
 **Geospatial Data Processing**   <span style="float: right;">*Sept 2023 - Present*</span>  
 **UChicago TechTeam & Genesys Work** 
-*Sept 2023 - Present*
 - Mentoring undergraduates on software and data strategies for non-profit firms in Chicago.
 - Creating a platform for pairing high school students with internships in Chicago.
 - Integrating Google Maps API to streamline location pairing using GPS data and zip codes.
@@ -125,10 +124,8 @@ TensorFlow  |  Pytorch  |  YOLO  |  OpenCV  |  Docker  |  Spark  |  AWS/GCP/AZUR
 
 ## Leadership and Engagement
 
-**Founder**  
+**Founder**  <span style="float: right;">*Feb 2018 - Present* </span>  
 **Davis Foundation Community & Lib. & IT Center — UER, Ghana**
-<br>
-*Feb 2018 - Present* 
 - Won a $10,000 award to establish a solar-powered library and IT center for ~6K off-grid residents.
 - Improved school retention rates by 55% by introducing educational tools like Kahoot, Nearpod, and Scratch.
 
