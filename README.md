@@ -92,16 +92,14 @@ TensorFlow  |  Pytorch  |  YOLO  |  OpenCV  |  Docker  |  Spark  |  AWS/GCP/AZUR
 
 ## Projects
 
-**PDF Chatbot**
-*Jan 2024*
+**PDF Chatbot** <span style="float: right;">*Jan 2024*</span> 
 - Developed a PDF chatbot allowing users to upload and query multiple PDFs or DOCX files, providing real-time responses.
 - Integrated **PyPDF** for seamless document processing and **RAG (Retrieval-Augmented Generation)** to enhance response accuracy.
 - Implemented text chunking and **OpenAI embeddings** for efficient retrieval and semantic search of document content.
 - Utilized **FAISS** as a local vector store to handle embeddings and support rapid text retrieval.
 - Built a user-friendly interface with **Streamlit**, providing real-time processing feedback and context-aware answers.
 
-**MShell - (Unix-like Shell)**
-*March 2024*
+**MShell - (Unix-like Shell)** <span style="float: right;">*March 2024*</span> 
 - Developed a **Unix-like shell** with user login, job control, and process management.
 - Implemented user authentication using a **passwd file**, and personalized user history for storing recent commands.
 - Built job control mechanisms with support for background/foreground processes and **SIGINT/SIGTSTP** signal handling.
@@ -109,7 +107,7 @@ TensorFlow  |  Pytorch  |  YOLO  |  OpenCV  |  Docker  |  Spark  |  AWS/GCP/AZUR
 - Implemented built-in commands such as `jobs`, `history`, and `adduser`, ensuring controlled user access with **root privileges**.
 
 
-**Geospatial Data Processing**  
+**Geospatial Data Processing**   <span style="float: right;">*Sept 2023 - Present*</span>  
 **UChicago TechTeam & Genesys Work** 
 *Sept 2023 - Present*
 - Mentoring undergraduates on software and data strategies for non-profit firms in Chicago.
