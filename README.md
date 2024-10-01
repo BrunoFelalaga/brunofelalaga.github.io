@@ -5,8 +5,8 @@
 ## Sections
 
 - [About Me](intro.md)
-- [Projects](projects.md)
-- [Experience](experience.md)
 - [Skills](skills.md)
-- [Publications](publications.md)
+- [Experience](experience.md)
+- [Projects](projects.md)
 - [Leadership & Engagement](leadership.md)
+- [Publications](publications.md)
