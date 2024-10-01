@@ -22,7 +22,35 @@
 - Built a user-friendly interface with **Streamlit**, enabling real-time feedback for users when uploading and processing documents.
 - The **RAG model** provided accurate, contextually relevant answers by retrieving and generating responses from the document database in real time, ensuring smooth interaction and improved overall usability.
 
+
 ---
+
+
+## MShell - (Unix-like Shell)
+
+#### Custom Shell Implementation:
+- Developed a fully functional **Unix-like shell** that emulates core features of a typical Unix shell, including user login, job control, and command execution.
+- The shell allows users to interact with processes, manage foreground and background jobs, and handle user sessions.
+
+#### User Authentication and Directory Management:
+- Implemented user authentication with a **passwd** file, where users must log in with valid credentials to access the shell.
+- Integrated a **/home** directory structure for each user with personalized history files, storing the last 10 commands executed.
+
+#### Job Control and Signal Handling:
+- Built job control mechanisms, enabling users to run jobs in the background or foreground, list active jobs, and terminate them.
+- The shell includes signal handlers for **SIGINT**, **SIGTSTP**, and **SIGCHLD**, ensuring proper control over processes through **Ctrl+C**, **Ctrl+Z**, and background process management.
+
+#### Process Management with /proc Filesystem:
+- Developed a virtual **/proc filesystem** that mirrors the Unix-like process information structure, maintaining process metadata like process IDs, parent process IDs, and session states.
+- Each process generates a status file in the **/proc/PID** directory, updating the state dynamically as the process runs.
+
+#### Command Parsing and Built-in Functionality:
+- Implemented a custom command parser using **tokenization** and argument separation, enabling users to execute built-in commands like `jobs`, `history`, and `logout`, or run external programs by providing the full path.
+- The shell supports adding new users with the `adduser` command, restricted to **root** privileges, ensuring controlled access to the system.
+
+
+---
+
 
 ## Geospatial Data Processing  
 *UChicago TechTeam & Genesys Work*  
@@ -32,7 +60,9 @@
 - Integrating Google Maps API to streamline location pairing using GPS data and zip codes.
 - Developing algorithms to optimize transit times and utilizing Power BI for data visualization.
 
+
 ---
+
 
 ## Virtual Book Club - Group Project  
 *UChicago*  
@@ -42,6 +72,8 @@
 - Integrated **CI/CD pipelines** for automated testing across various platforms.
 - Tested the platform with ~20 users and continuously incorporated user feedback.
 
+
 ---
+
 
 [Back to Home](index.html)
