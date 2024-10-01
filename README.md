@@ -117,9 +117,8 @@ TensorFlow  |  Pytorch  |  YOLO  |  OpenCV  |  Docker  |  Spark  |  AWS/GCP/AZUR
 - Integrating Google Maps API to streamline location pairing using GPS data and zip codes.
 - Developing algorithms to optimize transit times and utilizing Power BI for data visualization.
 
-**Virtual Book Club - Group Project**                                       *June 2023 - Present*
-**UChicago**  
-
+**Virtual Book Club - Group Project** <span style="float: right;">*June 2023 - Present*</span>  
+**UChicago**
 - Leading the development of an end-to-end social platform with FastAPI for book reading and discussion.
 - Executed CRUD operations, integrated authentication, and managed relational database structures.
 - Integrated CI/CD pipelines for automated testing across various platforms.
