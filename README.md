@@ -8,3 +8,5 @@
 - [Projects](projects.md)
 - [Experience](experience.md)
 - [Skills](skills.md)
+- [Publications](publications.md)
+- [Leadership & Engagement](leadership.md)
