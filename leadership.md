@@ -1,6 +1,6 @@
 # Leadership and Engagement
 
-## Projects for Peace  
+#### Projects for Peace  
 **Founder**  <span style="float: right;">*Feb 2018 - Present* </span>  
 **Davis Foundation Community & Lib. & IT Center — Navrongo, UE/R, Ghana**  
 - Awarded a $10,000 grant to build a solar-powered library and IT center for ~6,000 residents across three villages lacking electricity.  
@@ -9,41 +9,43 @@
 - Improved school retention rates by 55% by introducing engaging educational tools like Kahoot, Nearpod, and Scratch.  
 - Raised additional funds for the library’s sustainability by applying for awards, pitching to donors, and raising awareness through Ghanaian radio and TV stations.  
 
-
----
-
-
-# Mentorship, Communities, and Activities
-
-### Co-Ordinator - Pastoral Council of the Brown-RISD Catholic Community  
-**Jan 2017 - Dec 2017**  
+#### Co-Ordinator - Pastoral Council of the Brown-RISD Catholic Community  
+<span style="float: right;">*Jan 2017 - Dec 2017* </span>  
 - Led inclusion and exposure initiatives for freshmen, ensuring new students were integrated into the community.
 
-### Mentor - Brown University International Mentorship Program  
-**Aug 2017 - May 2018**  
+#### Mentor - Brown University International Mentorship Program  
+<span style="float: right;">*Aug 2017 - May 2018* </span>  
 - Provided year-long mentorship for twelve international first-year students, helping them adjust to academic and social life at Brown.
 
-### Mentor - Excellence at Brown Mentorship Program  
-**Aug 2018**  
+#### Mentor - Excellence at Brown Mentorship Program  
+<span style="float: right;">*Aug 2018* </span>  
 - Mentored incoming freshmen in an intensive academic writing program, guiding them in developing strong writing and critical thinking skills.
 
-### Mentor - Brown Elementary and Afterschool Mentorship (BEAM)  
-**Dec 2017 - May 2018**  
+#### Mentor - Brown Elementary and Afterschool Mentorship (BEAM)  
+<span style="float: right;">*Dec 2017 - May 2018* </span>  
 - Taught biology to kindergarten and grade five students at William D’Abate Elementary School, supporting STEM education for young learners.
 
-
 ---
-
 
 **Communities and Activities:**  
 - UChicago TechTeam  
-- Derivatives of Data Science (UChicago)
+- Derivatives of Data Science (UChicago)  
 - Brown Space Engineering  
 - Brown CS Mosaic+  
-- National Society of Black Engineers (NSBE)
+- National Society of Black Engineers (NSBE)  
 - Brown-RISD Catholic Community (BRCC)
 
 **Teaching**  
 - Algorithms TA - UChicago  
 - UChicago TeachTeam Mentor  
-- Chemical Equilibriums TA - Brown University  
+- Chemical Equilibriums TA - Brown University
+
+**Awards** 
+- Wade Scholar - 2023
+- Brown LINK Award - 2020
+- Brown UTRA Award - 2018
+- Davis Projects for Peace - 2018
+- Shoman Scholar - 2016
+- Davis UWC Scholar - 2016
+
+
