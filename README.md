@@ -26,7 +26,7 @@ I am actively looking for related full-time opportunities. Please reach out with
 
 **The University of Chicago**  <span style="float: right;">**Expected:** March 2025</span>  
 **MSc Computer Science** — Chicago, IL    
-**Relevant Coursework:** Algorithms, Cloud Computing, Applied Data Analytics, Unix Systems, Python Programming, DataBase Systems
+**Relevant Coursework:** Applied Data Analytics,  Generative AI, Distributed Systems, Algorithms, Cloud Computing, Unix Systems, Python Programming, DataBase Systems
 
 **Brown University**  <span style="float: right;">**Graduated:** May 2021</span>  
 **BSc Electrical Engineering** — Providence, RI  
