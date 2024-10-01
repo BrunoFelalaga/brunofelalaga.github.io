@@ -9,7 +9,8 @@
 - Improved school retention rates by 55% by introducing engaging educational tools like Kahoot, Nearpod, and Scratch.  
 - Raised additional funds for the library’s sustainability by applying for awards, pitching to donors, and raising awareness through Ghanaian radio and TV stations.  
 
-#### Co-Ordinator - Pastoral Council of the Brown-RISD Catholic Community  <span style="float: right;">*Jan 2017 - Dec 2017* </span>  
+#### Co-Ordinator - Pastoral Council of the Brown-RISD Catholic Community  
+<span style="float: right;">*Jan 2017 - Dec 2017* </span>  
 <br>
 - Led inclusion and exposure initiatives for freshmen, ensuring new students were integrated into the community.
 
