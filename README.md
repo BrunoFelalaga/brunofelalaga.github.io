@@ -1,19 +1,11 @@
----
-title: "Bruno Felalaga"
-description: "Software Engineer and Researcher"
-show_downloads: false
-theme: jekyll-theme-minimal
-image: bonbino.png # Make sure this image is available in your repo
----
-
-<img src="bonbino.png" alt="Profile Picture" width="150" align="left" style="margin-right: 15px;"/>
-
 # Bruno Felalaga
 
 📧 [brunofelalaga@uchicago.edu](mailto:brunofelalaga@uchicago.edu)  |  [LinkedIn](https://www.linkedin.com/in/bruno-felalaga/)  |  [GitHub](https://github.com/BrunoFelalaga)  |  📞 +1-708-5175-666 
 
 
 ## About Me
+
+<img src="bonbino.png" alt="Profile Picture" width="150" align="left" style="margin-right: 15px;"/>
 
 <p>
 I am a motivated Software Engineer with a background in Electrical and Computer Engineering. I am passionate about leveraging AI/ML to build Software Solutions for problems that affect communities at scale.
@@ -33,4 +25,4 @@ I am actively looking for related full-time opportunities. Please reach out with
 - [Experience](experience.md)
 - [Projects](projects.md)
 - [Leadership & Engagement](leadership.md)
-- [Publications](publications.md)
+- [Publications](publications.md) 
