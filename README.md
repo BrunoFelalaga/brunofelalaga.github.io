@@ -25,11 +25,11 @@ I am actively looking for related full-time opportunities. Please reach out with
 ## Education
 
 **The University of Chicago**  <span style="float: right;">**Expected:** March 2025</span>  
-*MSc Computer Science* — Chicago, IL    
+**MSc Computer Science** — Chicago, IL    
 **Relevant Coursework:** Algorithms, Cloud Computing, Applied Data Analytics, Unix Systems, Python Programming, DataBase Systems
 
 **Brown University**  <span style="float: right;">**Graduated:** May 2021</span>  
-*BSc Electrical Engineering* — Providence, RI  
+**BSc Electrical Engineering** — Providence, RI  
 **Relevant Coursework:** Data Structures & Algorithms, OOP, Digital Electronic Systems Design, Linear System Analysis  
 **Awards:** Wade Scholar, Brown UTRA Award, Brown LINK Award, Shoman Scholar, Davis Scholar, Davis Projects for Peace
 
@@ -40,7 +40,7 @@ I am actively looking for related full-time opportunities. Please reach out with
 Python  |  Java  |  JavaScript  |  C/C++  |  SQL  |  NoSQL  |  UNIX
 
 **Frameworks & Tools:**
-TensorFlow  |  Pytorch  |  YOLO  |  OpenCV  |  Docker  |  Spark  |  AWS/GCP/AZURE  |  Google Drive SDK  |  Debian Alpine Linux
+TensorFlow  |  Pytorch  |  YOLO  |  OpenCV  |  Docker  |  Apache Spark  |  AWS/GCP/AZURE  |  Google Drive SDK  |  Debian Alpine Linux
 
 
 ## Professional Experience
