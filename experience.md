@@ -41,3 +41,9 @@
 - Developed a scalable, centralized, digitized patient database, synchronizing updates from clinics.
 - Implemented REST API endpoints for data transfer among frontend, backend, and database.
 - Made recommendations that improved therapy adherence by ~32% based on statistical regression analysis.
+
+
+---
+[Skills](skills.md) | [Experience](experience.md) | [Projects](projects.md) | [Leadership & Engagement](leadership.md) | [Publications](publications.md) 
+<br>
+[Back to Home](index.html)
