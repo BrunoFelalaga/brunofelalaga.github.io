@@ -14,3 +14,8 @@ Currently, I am studying for a Masters Degree in Computer Science at the Univers
 I am actively looking for related full-time opportunities. Please reach out with any ideas for collaborations or open relevant roles. I am also happy to discuss my journey, background, and qualifications!
 </p>
 
+
+---
+[Skills](skills.md) | [Experience](experience.md) | [Projects](projects.md) | [Leadership & Engagement](leadership.md) | [Publications](publications.md) 
+<br>
+[Back to Home](index.html)
