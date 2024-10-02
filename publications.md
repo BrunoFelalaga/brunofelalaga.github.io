@@ -29,4 +29,7 @@ The recent development of 3D tissue spheroids aims to address current limitation
 In this research, we demonstrate the use of label-free optical coherence tomography (OCT) for quantitative cellular viability imaging of 3D tissue spheroids. OCT intensity and decorrelation signals acquired from neurospheroids exhibited changes correlated with cellular viability as manipulated with ethanol. Interestingly, the intensity and decorrelation signals exhibited different time courses, suggesting they may represent different cellular processes in cell death. More quantitative measurements of viability using dynamic light scattering optical coherence microscopy (DLS-OCM) were also presented, which enabled 3D maps of the diffusion coefficient, showing a correlation with cellular viability manipulated by changes in temperature and pH. Applications of these novel methods to human-cell 3D spheroids were also discussed.
 
 
+---
+[Skills](skills.md) | [Experience](experience.md) | [Projects](projects.md) | [Leadership & Engagement](leadership.md) | [Publications](publications.md) 
+<br>
 [Back to Home](index.html)
