@@ -45,3 +45,8 @@
 - Davis UWC Scholar - 2016
 
 
+---
+[Skills](skills.md) | [Experience](experience.md) | [Projects](projects.md) | [Leadership & Engagement](leadership.md) | [Publications](publications.md) 
+<br>
+[Back to Home](index.html)
+
