@@ -1,5 +1,5 @@
 ## Professional Experience
-**Software Engineering Intern**  <span style="float: right;">*June - September 2024*</span> 
+**Software Engineering Intern**  <span style="float: right;">*June - September 2024*</span>
 <br>
 *PicAxe* — Chicago, IL  
 - Developed software to identify and extract images from scanned PDF documents, achieving an impressive F1 score of **0.96**, improving performance by **10%**.
@@ -18,7 +18,7 @@
 - Leveraged AWS S3 for image hosting and auto-scaling, achieving a low latency of ~90ms.
 - Developed REST APIs with Express.js to synchronize data between admin and user interfaces.
 
-**Attitude Dynamics Lead**  <span style="float: right;">*Jan 2020 - May 2021*</span>  
+**Attitude Dynamics Lead**  <span style="float: right;">*Jan 2020 - May 2021*</span>
 <br>
 *Brown U. Space Engineering, USC* — Los Angeles, CA  
 - Designed and prototyped a cubesat robotic arm for satellite health sensing, to be deployed at the ISS in 2025.
@@ -26,7 +26,7 @@
 - Simulated the inertia matrix of the cubesat to optimize control parameters and hardware selection.
 - Synchronized arm motion with attitude using a PID control algorithm, increasing pointing accuracy by 27%.
 
-**Medical Imaging Research Assistant**  <span style="float: right;">*Nov 2017 - Dec 2019*</span>  
+**Medical Imaging Research Assistant**  <span style="float: right;">*Nov 2017 - Dec 2019*</span>
 <br>
 *Lee Biomed-Optics Lab* — Providence, RI  
 - Analyzed the viability of 3D liver spheroids using label-free Optical Coherence Tomography.
@@ -34,7 +34,7 @@
 - Trained a CNN ML model with imaging data, achieving 94% accuracy in detecting spheroid deterioration.
 - Co-authored a publication on pH and temperature effects on tissue health and deterioration.
 
-**Infectious Diseases Research Assistant**  <span style="float: right;">*Jan - Dec 2017*</span>  
+**Infectious Diseases Research Assistant**  <span style="float: right;">*Jan - Dec 2017*</span>
 <br>
 *Korle-Bu Teaching Hospital* — Accra, GH   
 - Led a 5-year retrospective study on TB/HIV co-infection therapy adherence.
