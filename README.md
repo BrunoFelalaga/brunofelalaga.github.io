@@ -22,6 +22,7 @@ I am actively looking for related full-time opportunities. Please reach out with
 ## Sections
 
 - [Skills](skills.md)
+- [Education](education.md)
 - [Experience](experience.md)
 - [Projects](projects.md)
 - [Leadership & Engagement](leadership.md)
