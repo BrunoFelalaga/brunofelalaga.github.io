@@ -26,7 +26,7 @@
 ---
 
 
-## MShell - (Unix-like Shell)
+## msh - (Unix-like Shell)
 
 #### Custom Shell Implementation:
 - Developed a fully functional **Unix-like shell** that emulates core features of a typical Unix shell, including user login, job control, and command execution.
