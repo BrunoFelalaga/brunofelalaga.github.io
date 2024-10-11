@@ -1,11 +1,16 @@
 ## Skills
 
 **Languages:**
-Python | Java | JavaScript | C/C++ | SQL | NoSQL | UNIX
+<br>
+Python   |   Java   |   JavaScript  |  C/C++  |  Bash  | MATLAB  |  SQL/NoSQL  |  Apache Spark
 
 **Frameworks & Tools:**
-TensorFlow | Pytorch | YOLO | OpenCV | Docker | Spark | AWS/GCP/AZURE | Google Drive SDK | Debian Alpine Linux
+<br>
+OpenCV  |  Paddle/Tesseract/Easy OCR   |  TensorFlow  |  PyTorch  |  LangChain  |  REST APIs  
 
+**Cloud, DevOps & ML:**
+<br>
+AWS/GCP/Azure  |  Docker  |  Debian Alpine Linux  |  OpenAI Embeddings  |  FAISS |  RAG   |  Fine-tuning
 
 
 ---
