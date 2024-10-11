@@ -2,15 +2,15 @@
 
 **Languages:**
 <br>
-Python   |   Java   |   JavaScript  |  C/C++  |  Bash  | MATLAB  |  SQL/NoSQL  |  Apache Spark
+Python      |      Java      |      JavaScript    |     C/C++     |     Bash  |    MATLAB     |     SQL/NoSQL     |     Apache Spark
 
 **Frameworks & Tools:**
 <br>
-OpenCV  |  Paddle/Tesseract/Easy OCR   |  TensorFlow  |  PyTorch  |  LangChain  |  REST APIs  
+OpenCV     |     Paddle/Tesseract/Easy OCR      |     TensorFlow    |     PyTorch     |     LangChain  |     REST APIs  
 
 **Cloud, DevOps & ML:**
 <br>
-AWS/GCP/Azure  |  Docker  |  Debian Alpine Linux  |  OpenAI Embeddings  |  FAISS |  RAG   |  Fine-tuning
+AWS/GCP/Azure     |     Docker     |     Debian Alpine Linux     |     OpenAI Embeddings     |     FAISS    |     RAG      |     Fine-tuning
 
 
 ---
